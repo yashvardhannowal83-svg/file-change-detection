@@ -1,0 +1,4 @@
+reference_hashes.json
+__pycache__/
+*.pyc
+integrity-test/
